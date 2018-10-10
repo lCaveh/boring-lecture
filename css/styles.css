@@ -1,0 +1,10 @@
+h2.intro {
+  color: red
+}
+p.intro {
+  font-family: sans-serif;
+  color: blue;
+}
+img.intro {
+  width: 50%;
+}
