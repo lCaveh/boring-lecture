@@ -4,3 +4,8 @@
   color: blue;
   width: 50%;
 }
+.edge {
+  background-color: yellow;
+  color: black;
+  border: 2px solid darkblue;
+}

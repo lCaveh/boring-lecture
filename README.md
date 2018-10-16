@@ -1,6 +1,6 @@
 # _Boring lecture_
 
-#### _single Webpage for Epicodus, 10.10.2018_
+#### _single Webpage for Epicodus, 10.16.2018_
 
 #### By _**Edin Filipovic and Kaveh Saleminejad**_
 
@@ -25,6 +25,8 @@ _Contact Edin Filipovic - edin.filipovic89@gmail.com or Kaveh Saleminejad - lcav
 
 * _HTML_
 * _CSS_
+* _JavaScript_
+* _JQuery_
 
 ### License
 
